@@ -8,4 +8,5 @@ An old observation of dynamically triggered EQs within Tenorio Volcano
 Updates Dec 27, 2021: 
 
 a. Unable to recover many self-detection (Not sure what happened to the stacking)
+
 b. Avoid using station II.JTS? (caused by different sampling rate). 
