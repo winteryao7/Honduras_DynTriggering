@@ -10,3 +10,7 @@ Updates Dec 27, 2021:
 a. Unable to recover many self-detection (Not sure what happened to the stacking)
 
 b. Avoid using station II.JTS? (caused by different sampling rate). 
+
+Updates Dec 30, 2021
+
+1. Add -dr option when converting data using mseed2sac
