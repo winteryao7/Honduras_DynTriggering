@@ -14,3 +14,10 @@ b. Avoid using station II.JTS? (caused by different sampling rate).
 Updates Dec 30, 2021
 
 1. Add -dr option when converting data using mseed2sac
+
+Updates Jan 6, 2022
+
+I realize that some issue exists when trying to merge SAC files for several stations. 
+Hence, I switch to hourly continuous trace instead of daily. (able to recover most of the 
+autodetections)
+
